@@ -1,0 +1,12 @@
+# Sistema de Arquivo
+
+Sistema Java desenvolvido na matéria de **Sistemas Operacionais 2** pelo curso **Engenharia de Computação - Instituto Federal do Sul de Minas Gerais Campus Poços de Caldas**
+
+# Objetivo
+
+Foi desenvolvido um sistema de arquivos para um Sistema Operacional. É simulado um sistema de armazenamento binário, visando abstrair a leitura em disco das informações e assim implementar comandos como **ls, mkdir, cat** entre outros de um Sistema Linux.
+
+Para implementação, era livre a escolha da quantidade de bits para execução do sistema, analisando as limitações do sistema como: 
+  * limite de espaço de armazenamento
+  * tamanho máximo do nome do arquivos 
+  * tamanho máximo de um arquivo
