@@ -10,3 +10,6 @@ Para implementação, era livre a escolha da quantidade de bits para execução 
   * limite de espaço de armazenamento
   * tamanho máximo do nome do arquivos 
   * tamanho máximo de um arquivo
+
+
+O sistema possui uma interface gráfica inspirada em um terminal de Linux. Nele é possível armazenar as últimas instruções e realizar todo o processo de escrita, leitura e deletar arquivos do sistema.
